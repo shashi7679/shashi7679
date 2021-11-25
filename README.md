@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashi7679
-- 👀 I’m interested in Object detection, Computer Vision and Robotics
+- 👀 I’m interested in Object detection, Image Classification, Computer Vision and Robotics
 - 🌱 I’m currently learning GANs, Javascript and React
 
 <!---
