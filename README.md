@@ -1,18 +1,30 @@
-- 👋 Hi, I’m @shashi7679
-- 👀 I’m interested in Object detection, Image Classification, Computer Vision and Robotics
-
-<!---
-shashi7679/shashi7679 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Shashikant Prasad</h1>
 <h3 align="center">ML || DL || Robotics Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi7679&label=Profile%20views&color=0e75b6&style=flat" alt="shashi7679" /> </p>
 
+<p align="left"> <a href="https://twitter.com/shashi_wb38" target="blank"><img src="https://img.shields.io/twitter/follow/shashi_wb38?logo=twitter&style=for-the-badge" alt="shashi_wb38" /></a> </p>
+
+- 🔭 I’m currently working on [Plant Disease Detector](https://github.com/shashi7679/Plant-Disease-Detector)
+
+- 🌱 I’m currently learning **NLP**
+
+- 👨‍💻 All of my projects are available at [https://shashi7679.github.io/](https://shashi7679.github.io/)
+
+- 📝 I regularly write articles on [https://medium.com/@Skpd/pix2pix-gan-for-generating-map-given-satellite-images-using-pytorch-6e50c318673a](https://medium.com/@Skpd/pix2pix-gan-for-generating-map-given-satellite-images-using-pytorch-6e50c318673a)
+
+- 📫 How to reach me **shashikantprasad1111@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tqHruBXBJyHRhAY3pAJMq1W-b7FfQfjG/view?usp=sharing](https://drive.google.com/file/d/1tqHruBXBJyHRhAY3pAJMq1W-b7FfQfjG/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/shashi_wb38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashi_wb38" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shashikant-prasad-8893a1151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashikant-prasad-8893a1151" height="30" width="40" /></a>
+<a href="https://fb.com/shashikant16175975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashikant16175975" height="30" width="40" /></a>
+<a href="https://medium.com/@skpd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@skpd" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shashi_wb38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashi_wb38" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shashikantprasad1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shashikantprasad1111" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,5 +33,3 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi7679&show_icons=true&locale=en&layout=compact" alt="shashi7679" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi7679&show_icons=true&locale=en" alt="shashi7679" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi7679&" alt="shashi7679" /></p>
