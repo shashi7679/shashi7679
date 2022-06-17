@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 👨‍💻 All of my projects are available at [https://shashi7679.github.io/](https://shashi7679.github.io/)
+- 👨‍💻 All of my projects are available at [Here](https://shashi7679.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@Skpd/pix2pix-gan-for-generating-map-given-satellite-images-using-pytorch-6e50c318673a](https://medium.com/@Skpd/pix2pix-gan-for-generating-map-given-satellite-images-using-pytorch-6e50c318673a)
+- 📝 I regularly write articles on [Medium](https://medium.com/@Skpd/pix2pix-gan-for-generating-map-given-satellite-images-using-pytorch-6e50c318673a)
 
-- 📫 How to reach me **shashikantprasad1111@gmail.com**
+- 📫 Reach me out over [Email](mailto:shashikantprasad1111@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tqHruBXBJyHRhAY3pAJMq1W-b7FfQfjG/view?usp=sharing](https://drive.google.com/file/d/1tqHruBXBJyHRhAY3pAJMq1W-b7FfQfjG/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1tqHruBXBJyHRhAY3pAJMq1W-b7FfQfjG/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
