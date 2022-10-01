@@ -1,5 +1,5 @@
 
-<body style="background-color:aqua">
+<div style="background-color:aqua">
 <h1 align="center">Hi 👋, I'm Shashikant Prasad</h1>
 <h3 align="center">ML || DL || Robotics Enthusiast</h3>
 
@@ -35,4 +35,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi7679&show_icons=true&locale=en&layout=compact&theme=radical" alt="shashi7679" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi7679&show_icons=true&locale=en&theme=radical" alt="shashi7679" /></p>
-</body>
+</div>
