@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shashi_wb38" target="blank"><img src="https://img.shields.io/twitter/follow/shashi_wb38?logo=twitter&style=for-the-badge" alt="shashi_wb38" /></a> </p>
 
-- 🔭 I’m currently working on [Plant Disease Detector](https://github.com/shashi7679/Plant-Disease-Detector)
+- 🔭 I’m currently working on [ToonGAN](https://github.com/shashi7679/ToonGAN)
 
 - 🌱 I’m currently learning **NLP**
 
