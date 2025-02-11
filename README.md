@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shashi_wb38" target="blank"><img src="https://img.shields.io/twitter/follow/shashi_wb38?logo=twitter&style=for-the-badge" alt="shashi_wb38" /></a> </p>
 
-- 🔭 I’m currently working on [Text-Summarizer](https://github.com/shashi7679/Text-Summarizer)
+- 🔭 I’m currently working on [Langchain_Agents](https://github.com/shashi7679/Langchain_Agents)
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Agents, Langchain, Langgraph**
 
 - 👨‍💻 All of my projects are available at [Here](https://shashi7679.github.io/)
 
