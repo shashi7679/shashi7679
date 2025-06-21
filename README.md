@@ -1,7 +1,7 @@
 
 <div style="background-color:aqua">
 <h1 align="center">Hi 👋, I'm Shashikant Prasad</h1>
-<h3 align="center">ML || DL || Robotics Enthusiast</h3>
+<h3 align="center">DL || CV || Robotics Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi7679&label=Profile%20views&color=0e75b6&style=flat" alt="shashi7679" /> </p>
 
